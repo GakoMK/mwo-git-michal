@@ -8,6 +8,10 @@ public class SomeProgram {
 		public void manageTheSatellite() {
 		// TODO implement
 		}
+		
+		public static void launchTheRocket() {
+			//TODO Stuff
+		}
 
     }
 }
